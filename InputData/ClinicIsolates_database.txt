@@ -1,0 +1,121 @@
+Combination	bug	Horiz_drug	Vert_drug	Horiz_startC	Vert_startC	Color	Replicate
+Azithromycin_Colistin_EC1027_1	EC1027	Colistin	Azithromycin	1	10	F8A100	1
+Azithromycin_Colistin_EC1027_2	EC1027	Colistin	Azithromycin	1	10	F8A100	2
+Azithromycin_Colistin_EC124_1	EC124	Colistin	Azithromycin	1	10	F8A100	1
+Azithromycin_Colistin_EC124_2	EC124	Colistin	Azithromycin	1	10	F8A100	2
+Azithromycin_Colistin_EC1334_1	EC1334	Colistin	Azithromycin	1	10	F8A100	1
+Azithromycin_Colistin_EC1334_2	EC1334	Colistin	Azithromycin	1	10	F8A100	2
+Azithromycin_Colistin_EC1531_1	EC1531	Colistin	Azithromycin	1	10	F8A100	1
+Azithromycin_Colistin_EC1531_2	EC1531	Colistin	Azithromycin	1	10	F8A100	2
+Azithromycin_Colistin_KP718_1	KP718	Colistin	Azithromycin	1.5	10	27559A	1
+Azithromycin_Colistin_KP718_2	KP718	Colistin	Azithromycin	1.5	10	27559A	2
+Azithromycin_Colistin_KP929_1	KP929	Colistin	Azithromycin	6	10	27559A	1
+Azithromycin_Colistin_KP929_2	KP929	Colistin	Azithromycin	6	10	27559A	2
+Azithromycin_Colistin_KP980_1	KP980	Colistin	Azithromycin	1.5	10	27559A	1
+Azithromycin_Colistin_KP980_2	KP980	Colistin	Azithromycin	1.5	10	27559A	2
+Clarithromycin_Colistin_EC1027_1	EC1027	Colistin	Clarithromycin	1	50	F8A100	1
+Clarithromycin_Colistin_EC1027_2	EC1027	Colistin	Clarithromycin	1	50	F8A100	2
+Clarithromycin_Colistin_EC124_1	EC124	Colistin	Clarithromycin	1	50	F8A100	1
+Clarithromycin_Colistin_EC124_2	EC124	Colistin	Clarithromycin	1	50	F8A100	2
+Clarithromycin_Colistin_EC1334_1	EC1334	Colistin	Clarithromycin	1	50	F8A100	1
+Clarithromycin_Colistin_EC1334_2	EC1334	Colistin	Clarithromycin	1	50	F8A100	2
+Clarithromycin_Colistin_EC1531_1	EC1531	Colistin	Clarithromycin	1	50	F8A100	1
+Clarithromycin_Colistin_EC1531_2	EC1531	Colistin	Clarithromycin	1	50	F8A100	2
+Clarithromycin_Colistin_KP718_1	KP718	Colistin	Clarithromycin	1.5	50	27559A	1
+Clarithromycin_Colistin_KP718_2	KP718	Colistin	Clarithromycin	1.5	50	27559A	2
+Clarithromycin_Colistin_KP929_1	KP929	Colistin	Clarithromycin	6	50	27559A	1
+Clarithromycin_Colistin_KP929_2	KP929	Colistin	Clarithromycin	6	50	27559A	2
+Clarithromycin_Colistin_KP980_1	KP980	Colistin	Clarithromycin	1.5	50	27559A	1
+Clarithromycin_Colistin_KP980_2	KP980	Colistin	Clarithromycin	1.5	50	27559A	2
+Erythromycin_Colistin_EC1027_1	EC1027	Colistin	Erythromycin	1	30	F8A100	1
+Erythromycin_Colistin_EC1027_2	EC1027	Colistin	Erythromycin	1	30	F8A100	2
+Erythromycin_Colistin_EC124_1	EC124	Colistin	Erythromycin	1	30	F8A100	1
+Erythromycin_Colistin_EC124_2	EC124	Colistin	Erythromycin	1	30	F8A100	2
+Erythromycin_Colistin_EC1334_1	EC1334	Colistin	Erythromycin	1	30	F8A100	1
+Erythromycin_Colistin_EC1334_2	EC1334	Colistin	Erythromycin	1	30	F8A100	2
+Erythromycin_Colistin_EC1531_1	EC1531	Colistin	Erythromycin	1	30	F8A100	1
+Erythromycin_Colistin_EC1531_2	EC1531	Colistin	Erythromycin	1	30	F8A100	2
+Erythromycin_Colistin_KP718_1	KP718	Colistin	Erythromycin	1.5	30	27559A	1
+Erythromycin_Colistin_KP718_2	KP718	Colistin	Erythromycin	1.5	30	27559A	2
+Erythromycin_Colistin_KP929_1	KP929	Colistin	Erythromycin	6	30	27559A	1
+Erythromycin_Colistin_KP929_2	KP929	Colistin	Erythromycin	6	30	27559A	2
+Erythromycin_Colistin_KP980_1	KP980	Colistin	Erythromycin	1.5	30	27559A	1
+Erythromycin_Colistin_KP980_2	KP980	Colistin	Erythromycin	1.5	30	27559A	2
+Loperamide_Colistin_EC1027_1	EC1027	Colistin	Loperamide	1	72	F8A100	1
+Loperamide_Colistin_EC1027_2	EC1027	Colistin	Loperamide	1	72	F8A100	2
+Loperamide_Colistin_EC124_1	EC124	Colistin	Loperamide	1	72	F8A100	1
+Loperamide_Colistin_EC124_2	EC124	Colistin	Loperamide	1	72	F8A100	2
+Loperamide_Colistin_EC1334_1	EC1334	Colistin	Loperamide	1	72	F8A100	1
+Loperamide_Colistin_EC1334_2	EC1334	Colistin	Loperamide	1	72	F8A100	2
+Loperamide_Colistin_EC1531_1	EC1531	Colistin	Loperamide	1	72	F8A100	1
+Loperamide_Colistin_EC1531_2	EC1531	Colistin	Loperamide	1	72	F8A100	2
+Loperamide_Colistin_KP718_1	KP718	Colistin	Loperamide	1.5	72	27559A	1
+Loperamide_Colistin_KP718_2	KP718	Colistin	Loperamide	1.5	72	27559A	2
+Loperamide_Colistin_KP929_1	KP929	Colistin	Loperamide	6	72	27559A	1
+Loperamide_Colistin_KP929_2	KP929	Colistin	Loperamide	6	72	27559A	2
+Loperamide_Colistin_KP980_1	KP980	Colistin	Loperamide	1.5	72	27559A	1
+Loperamide_Colistin_KP980_2	KP980	Colistin	Loperamide	1.5	72	27559A	2
+Loperamide_Doxycycline_EC1027_1	EC1027	Doxycycline	Loperamide	10	500	F8A100	1
+Loperamide_Doxycycline_EC1027_2	EC1027	Doxycycline	Loperamide	10	500	F8A100	2
+Loperamide_Doxycycline_EC124_1	EC124	Doxycycline	Loperamide	10	500	F8A100	1
+Loperamide_Doxycycline_EC124_2	EC124	Doxycycline	Loperamide	10	500	F8A100	2
+Loperamide_Doxycycline_EC1334_1	EC1334	Doxycycline	Loperamide	10	500	F8A100	1
+Loperamide_Doxycycline_EC1334_2	EC1334	Doxycycline	Loperamide	10	500	F8A100	2
+Loperamide_Doxycycline_EC1531_1	EC1531	Doxycycline	Loperamide	10	500	F8A100	1
+Loperamide_Doxycycline_EC1531_2	EC1531	Doxycycline	Loperamide	10	500	F8A100	2
+Loperamide_Doxycycline_KP718_1	KP718	Doxycycline	Loperamide	10	500	27559A	1
+Loperamide_Doxycycline_KP718_2	KP718	Doxycycline	Loperamide	10	500	27559A	2
+Loperamide_Doxycycline_KP980_1	KP980	Doxycycline	Loperamide	10	500	27559A	1
+Loperamide_Doxycycline_KP980_2	KP980	Doxycycline	Loperamide	10	500	27559A	2
+Procaine_Doxycycline_EC1027_1	EC1027	Doxycycline	Procaine	10	6000	F8A100	1
+Procaine_Doxycycline_EC1027_2	EC1027	Doxycycline	Procaine	10	6000	F8A100	2
+Procaine_Doxycycline_EC1027_3	EC1027	Doxycycline	Procaine	10	6000	F8A100	3
+Procaine_Doxycycline_EC1027_4	EC1027	Doxycycline	Procaine	10	6000	F8A100	4
+Procaine_Doxycycline_EC124_1	EC124	Doxycycline	Procaine	10	6000	F8A100	1
+Procaine_Doxycycline_EC124_2	EC124	Doxycycline	Procaine	10	6000	F8A100	2
+Procaine_Doxycycline_EC124_3	EC124	Doxycycline	Procaine	10	6000	F8A100	3
+Procaine_Doxycycline_EC124_4	EC124	Doxycycline	Procaine	10	6000	F8A100	4
+Procaine_Doxycycline_EC1334_1	EC1334	Doxycycline	Procaine	10	6000	F8A100	1
+Procaine_Doxycycline_EC1334_2	EC1334	Doxycycline	Procaine	10	6000	F8A100	2
+Procaine_Doxycycline_EC1334_3	EC1334	Doxycycline	Procaine	10	6000	F8A100	3
+Procaine_Doxycycline_EC1334_4	EC1334	Doxycycline	Procaine	10	6000	F8A100	4
+Procaine_Doxycycline_EC1531_1	EC1531	Doxycycline	Procaine	10	6000	F8A100	1
+Procaine_Doxycycline_EC1531_2	EC1531	Doxycycline	Procaine	10	6000	F8A100	2
+Procaine_Doxycycline_EC1531_3	EC1531	Doxycycline	Procaine	10	6000	F8A100	3
+Procaine_Doxycycline_EC1531_4	EC1531	Doxycycline	Procaine	10	6000	F8A100	4
+Procaine_Doxycycline_KP718_1	KP718	Doxycycline	Procaine	10	6000	27559A	1
+Procaine_Doxycycline_KP718_2	KP718	Doxycycline	Procaine	10	6000	27559A	2
+Procaine_Doxycycline_KP718_3	KP718	Doxycycline	Procaine	10	6000	27559A	3
+Procaine_Doxycycline_KP718_4	KP718	Doxycycline	Procaine	10	6000	27559A	4
+Procaine_Doxycycline_KP929_1	KP929	Doxycycline	Procaine	10	6000	27559A	1
+Procaine_Doxycycline_KP929_2	KP929	Doxycycline	Procaine	10	6000	27559A	2
+Procaine_Doxycycline_KP980_1	KP980	Doxycycline	Procaine	10	6000	27559A	1
+Procaine_Doxycycline_KP980_2	KP980	Doxycycline	Procaine	10	6000	27559A	2
+Procaine_Doxycycline_KP980_3	KP980	Doxycycline	Procaine	10	6000	27559A	3
+Procaine_Doxycycline_KP980_4	KP980	Doxycycline	Procaine	10	6000	27559A	4
+Procaine_Fusidic acid_EC1027_1	EC1027	Fusidic acid	Procaine	200	6000	F8A100	1
+Procaine_Fusidic acid_EC1027_2	EC1027	Fusidic acid	Procaine	200	6000	F8A100	2
+Procaine_Fusidic acid_EC124_1	EC124	Fusidic acid	Procaine	200	6000	F8A100	1
+Procaine_Fusidic acid_EC124_2	EC124	Fusidic acid	Procaine	200	6000	F8A100	2
+Procaine_Fusidic acid_EC1334_1	EC1334	Fusidic acid	Procaine	200	6000	F8A100	1
+Procaine_Fusidic acid_EC1334_2	EC1334	Fusidic acid	Procaine	200	6000	F8A100	2
+Procaine_Fusidic acid_EC1531_1	EC1531	Fusidic acid	Procaine	200	6000	F8A100	1
+Procaine_Fusidic acid_EC1531_2	EC1531	Fusidic acid	Procaine	200	6000	F8A100	2
+Procaine_Fusidic acid_KP718_1	KP718	Fusidic acid	Procaine	200	6000	27559A	1
+Procaine_Fusidic acid_KP718_2	KP718	Fusidic acid	Procaine	200	6000	27559A	2
+Procaine_Fusidic acid_KP929_1	KP929	Fusidic acid	Procaine	200	6000	27559A	1
+Procaine_Fusidic acid_KP929_2	KP929	Fusidic acid	Procaine	200	6000	27559A	2
+Procaine_Fusidic acid_KP980_1	KP980	Fusidic acid	Procaine	200	6000	27559A	1
+Procaine_Fusidic acid_KP980_2	KP980	Fusidic acid	Procaine	200	6000	27559A	2
+Vanillin_Spectinomycin_EC1027_1	EC1027	Spectinomycin	Vanillin	30	450	F8A100	1
+Vanillin_Spectinomycin_EC1027_2	EC1027	Spectinomycin	Vanillin	30	450	F8A100	2
+Vanillin_Spectinomycin_EC124_1	EC124	Spectinomycin	Vanillin	30	450	F8A100	1
+Vanillin_Spectinomycin_EC124_2	EC124	Spectinomycin	Vanillin	30	450	F8A100	2
+Vanillin_Spectinomycin_EC1334_1	EC1334	Spectinomycin	Vanillin	30	450	F8A100	1
+Vanillin_Spectinomycin_EC1334_2	EC1334	Spectinomycin	Vanillin	30	450	F8A100	2
+Vanillin_Spectinomycin_EC1531_1	EC1531	Spectinomycin	Vanillin	30	450	F8A100	1
+Vanillin_Spectinomycin_EC1531_2	EC1531	Spectinomycin	Vanillin	30	450	F8A100	2
+Vanillin_Spectinomycin_KP718_1	KP718	Spectinomycin	Vanillin	30	450	27559A	1
+Vanillin_Spectinomycin_KP718_2	KP718	Spectinomycin	Vanillin	30	450	27559A	2
+Vanillin_Spectinomycin_KP980_1	KP980	Spectinomycin	Vanillin	30	450	27559A	1
+Vanillin_Spectinomycin_KP980_2	KP980	Spectinomycin	Vanillin	30	450	27559A	2

@@ -1,0 +1,80 @@
+Drug	Class	Master_Class	Color	Use	Abbreviation
+Amoxicillin	beta-lactam	cell wall	1E67A4	antibiotic	AMX
+Oxacillin	beta-lactam	cell wall	1E67A4	antibiotic	OXA
+Cefotaxime	beta-lactam	cell wall	1E67A4	antibiotic	CTX
+Cefaclor	beta-lactam	cell wall	1E67A4	antibiotic	CEC
+Cefsulodin	beta-lactam	cell wall	1E67A4	antibiotic	CFS
+Piperacillin	beta-lactam	cell wall	1E67A4	antibiotic	PIP
+Penicillin G	beta-lactam	cell wall	1E67A4	antibiotic	PEN
+Imipenem	beta-lactam	cell wall	1E67A4	antibiotic	IPM
+Meropenem	beta-lactam	cell wall	1E67A4	antibiotic	MEM
+Mecillinam	beta-lactam	cell wall	1E67A4	antibiotic	MEC
+Aztreonam	beta-lactam	cell wall	1E67A4	antibiotic	ATM
+Cephalexin	beta-lactam	cell wall	1E67A4	antibiotic	LEX
+A22	other cell wall	cell wall	6198C6	research used drug	A22
+Cycloserine D	other cell wall	cell wall	6198C6	antibiotic	DCS
+Teicoplanin	other cell wall	cell wall	6198C6	antibiotic	TEC
+Bacitracin	other cell wall	cell wall	6198C6	antibiotic	BAC
+Fosfomycin	other cell wall	cell wall	6198C6	antibiotic	FOF
+Metronidazole	other DNA	DNA	FFC95E	antibiotic	MTZ
+Clofazimine	other DNA	DNA	FFC95E	antibiotic	CLO
+Doxorubicin	other DNA	DNA	FFC95E	human-targeted drug	DXR
+Mitomycin C	other DNA	DNA	FFC95E	research used drug	MMC
+Rifampicin	RNA polymerase	DNA	FFBB33	antibiotic	RIF
+Ciprofloxacin	fluoroquinolone	DNA	EE9F02	antibiotic	CIP
+Novobiocin	other DNA	DNA	EE9F02	antibiotic	NVB
+Levofloxacin	fluoroquinolone	DNA	EE9F02	antibiotic	LCX
+Moxifloxacin	fluoroquinolone	DNA	EE9F02	antibiotic	MXF
+Trimethoprim	folic acid biosynthesis	DNA	BD7E00	antibiotic	TMP
+Sulfamonomethoxine	folic acid biosynthesis	DNA	BD7E00	antibiotic	SMM
+Nitrofurantoin	multiple	DNA	946200	antibiotic	NIT
+Bleomycin	multiple	DNA	946200	human-targeted drug	BLM
+Phleomycin	multiple	DNA	946200	human-targeted drug	PLM
+Polymyxin B	LPS	membrane	B78DD7	antibiotic	PMB
+Chlorhexidine	LPS	membrane	B78DD7	antiseptic	CHG
+Colistin	LPS	membrane	B78DD7	antibiotic	CST
+CHIR-90	LPS	membrane	B78DD7	research used drug	CHIR90
+Triclosan	other membrane	membrane	9461BB	anti-infective	TRI
+Benzalkonium	other membrane	membrane	9461BB	antiseptic	BZK
+EGCG	fatty acid biosynthesis	membrane	7740A1	food additive	EGCG
+Cerulenin	fatty acid biosynthesis	membrane	7740A1	anti-infective	CER
+Nisin	PMF	PMF	489E00	antibiotic	NSN
+Daptomycin	PMF	PMF	489E00	antibiotic	DAP
+CCCP	PMF	PMF	489E00	research used drug	CCCP
+Nonactin	PMF	PMF	489E00	antibiotic	NON
+PMS	oxidative stress	oxidative stress	7ED437	research used drug	PMS
+Pyocyanin	oxidative stress	oxidative stress	7ED437	research used drug	PYO
+Pseudomonic acid	oxidative stress	oxidative stress	7ED437	research used drug	PSA
+Paraquat	oxidative stress	oxidative stress	7ED437	research used drug	PQ
+Fusidic acid	other protein synthesis inhibitor	protein synthesis inhibitor	F5001D	antibiotic	FUS
+Puromycin	other protein synthesis inhibitor	protein synthesis inhibitor	F5001D	antibiotic	PUR
+Chloramphenicol	other protein synthesis inhibitor	protein synthesis inhibitor	F5001D	antibiotic	CHL
+Linezolid	other protein synthesis inhibitor	protein synthesis inhibitor	F5001D	antibiotic	LZD
+Clindamycin	other protein synthesis inhibitor	protein synthesis inhibitor	F5001D	antibiotic	CLI
+Doxycycline	tetracycline	protein synthesis inhibitor	C70017	antibiotic	DOX
+Minocycline	tetracycline	protein synthesis inhibitor	C70017	antibiotic	MIN
+Tigecycline	tetracycline	protein synthesis inhibitor	C70017	antibiotic	TGC
+Spectinomycin	aminoglycoside	protein synthesis inhibitor	9F0030	antibiotic	SPT
+Amikacin	aminoglycoside	protein synthesis inhibitor	9F0030	antibiotic	AMK
+Tobramycin	aminoglycoside	protein synthesis inhibitor	9F0030	antibiotic	TOB
+Gentamicin	aminoglycoside	protein synthesis inhibitor	9F0030	antibiotic	GEN
+Spiramycin	macrolide	protein synthesis inhibitor	790025	antibiotic	SPM
+Erythromycin	macrolide	protein synthesis inhibitor	790025	antibiotic	ERI
+Clarithromycin	macrolide	protein synthesis inhibitor	790025	antibiotic	CLR
+Azithromycin	macrolide	protein synthesis inhibitor	790025	antibiotic	AZM
+Flucytosine	antifungal	human	00B2B2	anti-infective	5FC
+Caffeine	food additive	human	3FC2C2	food additive	CAF
+Curcumin	food additive	human	3FC2C2	food additive	CCM
+Berberine	food additive	human	3FC2C2	food additive	BBR
+Vanillin	food additive	human	3FC2C2	food additive	VNL
+Reserpine	human drug	human	008181	human-targeted drug	RSP
+Procaine	human drug	human	008181	human-targeted drug	PRC
+Theophylline	human drug	human	008181	human-targeted drug	TPH
+Loperamide	human drug	human	008181	human-targeted drug	LOP
+Verapamil	human drug	human	008181	human-targeted drug	VPM
+Metformin	human drug	human	008181	human-targeted drug	MF
+Phenformin	human drug	human	008181	research used drug	PHM
+Streptozotocin	human drug	human	008181	human-targeted drug	STZ
+Diclofenac	human drug	human	008181	human-targeted drug	DIC
+Acetylsalisylic acid	human drug	human	008181	human-targeted drug	ASA
+Ciclopirox	human drug	human	008181	human-targeted drug	CPO

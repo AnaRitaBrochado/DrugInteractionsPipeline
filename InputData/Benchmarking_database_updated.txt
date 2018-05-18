@@ -1,0 +1,493 @@
+Combination	Bug	Replicate	Vertical	Horizontal	Starting_Vertical	Starting_Horizontal	Color
+Fosfomycin-Procaine-EC_BW-rep1	EC_BW	1	Procaine	Fosfomycin	11000	0.2	F8A100
+Imipenem-Cefotaxime-EC_BW-rep1	EC_BW	1	Cefotaxime	Imipenem	0.04	0.25	F8A101
+Vanillin-Novobiocin-EC_BW-rep1	EC_BW	1	Novobiocin	Vanillin	40	200	F8A102
+Mitomycin C-Amikacin-EC_BW-rep1	EC_BW	1	Amikacin	Mitomycin C	1	0.8	F8A103
+Mitomycin C-Procaine-EC_BW-rep1	EC_BW	1	Procaine	Mitomycin C	11000	0.8	F8A104
+Amikacin-PMS-EC_BW-rep1	EC_BW	1	PMS	Amikacin	15	1	F8A105
+Erythromycin-Cefaclor-EC_BW-rep1	EC_BW	1	Cefaclor	Erythromycin	2	30	F8A106
+Penicillin G-Cefsulodin-EC_BW-rep1	EC_BW	1	Cefsulodin	Penicillin G	40	50	F8A107
+Sulfamonomethoxine-Levofloxacin-EC_BW-rep1	EC_BW	1	Levofloxacin	Sulfamonomethoxine	0.063	100	F8A108
+Cerulenin-Rifampicin-EC_BW-rep1	EC_BW	1	Rifampicin	Cerulenin	15	10	F8A109
+Doxycycline-Erythromycin-EC_BW-rep1	EC_BW	1	Erythromycin	Doxycycline	30	0.75	F8A110
+Doxycycline-Novobiocin-EC_BW-rep1	EC_BW	1	Novobiocin	Doxycycline	40	0.75	F8A111
+Mecillinam-PMS-EC_BW-rep1	EC_BW	1	PMS	Mecillinam	15	0.2	F8A112
+Novobiocin-Cefaclor-EC_BW-rep1	EC_BW	1	Cefaclor	Novobiocin	2	40	F8A113
+Benzalkonium-Mecillinam-EC_BW-rep1	EC_BW	1	Mecillinam	Benzalkonium	0.2	20	F8A114
+Cefotaxime-Clarithromycin-EC_BW-rep1	EC_BW	1	Clarithromycin	Cefotaxime	80	0.04	F8A115
+Doxycycline-Minocycline-EC_BW-rep1	EC_BW	1	Minocycline	Doxycycline	1	0.75	F8A116
+Levofloxacin-Procaine-EC_BW-rep1	EC_BW	1	Procaine	Levofloxacin	11000	0.063	F8A117
+Mecillinam-Paraquat-EC_BW-rep1	EC_BW	1	Paraquat	Mecillinam	7	0.2	F8A118
+Nitrofurantoin-Ciprofloxacin-EC_BW-rep1	EC_BW	1	Ciprofloxacin	Nitrofurantoin	0.015	8	F8A119
+Nitrofurantoin-Levofloxacin-EC_BW-rep1	EC_BW	1	Levofloxacin	Nitrofurantoin	0.063	8	F8A120
+Paraquat-Cycloserine D-EC_BW-rep1	EC_BW	1	Cycloserine D	Paraquat	15	7	F8A121
+Piperacillin-Procaine-EC_BW-rep1	EC_BW	1	Procaine	Piperacillin	11000	0.9	F8A122
+Pyocyanin-PMS-EC_BW-rep1	EC_BW	1	PMS	Pyocyanin	15	10	F8A123
+Reserpine-Levofloxacin-EC_BW-rep1	EC_BW	1	Levofloxacin	Reserpine	0.063	200	F8A124
+Vanillin-Minocycline-EC_BW-rep1	EC_BW	1	Minocycline	Vanillin	1	200	F8A125
+Amoxicillin-Cefotaxime-EC_BW-rep1	EC_BW	1	Cefotaxime	Amoxicillin	0.04	2	F8A126
+Ciprofloxacin-Procaine-EC_BW-rep1	EC_BW	1	Procaine	Ciprofloxacin	11000	0.015	F8A127
+Ciprofloxacin-Rifampicin-EC_BW-rep1	EC_BW	1	Rifampicin	Ciprofloxacin	15	0.015	F8A128
+Colistin-Erythromycin-EC_BW-rep1	EC_BW	1	Erythromycin	Colistin	30	0.3	F8A129
+Doxycycline-Amikacin-EC_BW-rep1	EC_BW	1	Amikacin	Doxycycline	1	0.75	F8A130
+Doxycycline-Loperamide-EC_BW-rep1	EC_BW	1	Loperamide	Doxycycline	300	0.75	F8A131
+Fosfomycin-Erythromycin-EC_BW-rep1	EC_BW	1	Erythromycin	Fosfomycin	30	0.2	F8A132
+Fosfomycin-Mitomycin C-EC_BW-rep1	EC_BW	1	Mitomycin C	Fosfomycin	0.8	0.2	F8A133
+Mitomycin C-PMS-EC_BW-rep1	EC_BW	1	PMS	Mitomycin C	15	0.8	F8A134
+Novobiocin-Fosfomycin-EC_BW-rep1	EC_BW	1	Fosfomycin	Novobiocin	0.2	40	F8A135
+Penicillin G-Aztreonam-EC_BW-rep1	EC_BW	1	Aztreonam	Penicillin G	0.06	50	F8A136
+Piperacillin-Amoxicillin-EC_BW-rep1	EC_BW	1	Amoxicillin	Piperacillin	2	0.9	F8A137
+Paraquat-Aztreonam-EC_BW-rep1	EC_BW	1	Aztreonam	Paraquat	0.06	7	F8A138
+EGCG-Ciprofloxacin-EC_BW-rep1	EC_BW	1	Ciprofloxacin	EGCG	0.015	20	F8A139
+PMS-Azithromycin-EC_BW-rep1	EC_BW	1	Azithromycin	PMS	5	15	F8A140
+Caffeine-Aztreonam-EC_BW-rep1	EC_BW	1	Aztreonam	Caffeine	0.06	200	F8A141
+Ciprofloxacin-Spectinomycin-EC_BW-rep1	EC_BW	1	Spectinomycin	Ciprofloxacin	12	0.015	F8A142
+Doxycycline-Ciprofloxacin-EC_BW-rep1	EC_BW	1	Ciprofloxacin	Doxycycline	0.015	0.75	F8A143
+Minocycline-Ciprofloxacin-EC_BW-rep1	EC_BW	1	Ciprofloxacin	Minocycline	0.015	1	F8A144
+Minocycline-Fosfomycin-EC_BW-rep1	EC_BW	1	Fosfomycin	Minocycline	0.2	1	F8A145
+Nitrofuratoin-Minocycline-EC_iAi1-rep1	EC_iAi1	1	Minocycline	Nitrofuratoin	1	8	FFB836
+Nitrofuratoin-Minocycline-EC_iAi1-rep2	EC_iAi1	2	Minocycline	Nitrofuratoin	1	8	FFB836
+Nitrofuratoin-Minocycline-PA01-rep1	PA01	1	Minocycline	Nitrofuratoin	20	32	119E0A
+Nitrofuratoin-Minocycline-PA01-rep2	PA01	2	Minocycline	Nitrofuratoin	20	32	119E0A
+Nitrofuratoin-Minocycline-PA14-rep1	PA14	1	Minocycline	Nitrofuratoin	20	32	056000
+Nitrofuratoin-Minocycline-PA14-rep2	PA14	2	Minocycline	Nitrofuratoin	20	32	056000
+Nitrofuratoin-Minocycline-ST14028-rep1	ST14028	1	Minocycline	Nitrofuratoin	4	16	C3110C
+Nitrofuratoin-Minocycline-ST14028-rep2	ST14028	2	Minocycline	Nitrofuratoin	4	16	C3110C
+Mitomycin C-Azithromycin-EC_BW-rep1	EC_BW	1	Azithromycin	Mitomycin C	5	0.8	F8A146
+Mitomycin C-Aztreonam-EC_BW-rep1	EC_BW	1	Aztreonam	Mitomycin C	0.06	0.8	F8A147
+Paraquat-Azithromycin-EC_BW-rep1	EC_BW	1	Azithromycin	Paraquat	5	7	F8A148
+Piperacillin-Fosfomycin-EC_BW-rep1	EC_BW	1	Fosfomycin	Piperacillin	0.2	0.9	F8A149
+PMS-Aztreonam-EC_BW-rep1	EC_BW	1	Aztreonam	PMS	0.06	15	F8A150
+Procaine-Gentamicin-EC_BW-rep1	EC_BW	1	Gentamicin	Procaine	2	11000	F8A151
+Puromycin-Fosfomycin-EC_BW-rep1	EC_BW	1	Fosfomycin	Puromycin	0.2	30	F8A152
+Pyocyanin-Ciprofloxacin-EC_BW-rep1	EC_BW	1	Ciprofloxacin	Pyocyanin	0.015	10	F8A153
+Vanillin-Aztreonam-EC_BW-rep1	EC_BW	1	Aztreonam	Vanillin	0.06	200	F8A154
+Vanillin-Ciprofloxacin-EC_BW-rep1	EC_BW	1	Ciprofloxacin	Vanillin	0.015	200	F8A155
+Fosfomycin-Procaine-EC_iAi1-rep1	EC_iAi1	1	Procaine	Fosfomycin	11000	0.2	FFB836
+Imipenem-Cefotaxime-EC_iAi1-rep1	EC_iAi1	1	Cefotaxime	Imipenem	0.04	0.25	FFB837
+Vanillin-Novobiocin-EC_iAi1-rep1	EC_iAi1	1	Novobiocin	Vanillin	40	200	FFB838
+Mitomycin C-Procaine-EC_iAi1-rep1	EC_iAi1	1	Procaine	Mitomycin C	11000	0.8	FFB839
+Amikacin-PMS-EC_iAi1-rep1	EC_iAi1	1	PMS	Amikacin	15	1	FFB840
+Erythromycin-Cefaclor-EC_iAi1-rep1	EC_iAi1	1	Cefaclor	Erythromycin	2	30	FFB841
+Erythromycin-Loperamide-EC_iAi1-rep1	EC_iAi1	1	Loperamide	Erythromycin	300	30	FFB842
+Penicillin G-Cefsulodin-EC_iAi1-rep1	EC_iAi1	1	Cefsulodin	Penicillin G	40	50	FFB843
+Sulfamonomethoxine-Levofloxacin-EC_iAi1-rep1	EC_iAi1	1	Levofloxacin	Sulfamonomethoxine	0.063	100	FFB844
+Cerulenin-Rifampicin-EC_iAi1-rep1	EC_iAi1	1	Rifampicin	Cerulenin	15	10	FFB845
+Doxycycline-Erythromycin-EC_iAi1-rep1	EC_iAi1	1	Erythromycin	Doxycycline	30	0.75	FFB846
+Novobiocin-Cefaclor-EC_iAi1-rep1	EC_iAi1	1	Cefaclor	Novobiocin	2	40	FFB847
+Cefotaxime-Clarithromycin-EC_iAi1-rep1	EC_iAi1	1	Clarithromycin	Cefotaxime	80	0.04	FFB848
+Doxycycline-Minocycline-EC_iAi1-rep1	EC_iAi1	1	Minocycline	Doxycycline	1	0.75	FFB849
+Nitrofurantoin-Levofloxacin-EC_iAi1-rep1	EC_iAi1	1	Levofloxacin	Nitrofurantoin	0.063	8	FFB850
+Nitrofurantoin-Minocycline-EC_iAi1-rep1	EC_iAi1	1	Minocycline	Nitrofurantoin	1	8	FFB851
+Paraquat-Cycloserine D-EC_iAi1-rep1	EC_iAi1	1	Cycloserine D	Paraquat	15	7	FFB852
+Piperacillin-Procaine-EC_iAi1-rep1	EC_iAi1	1	Procaine	Piperacillin	11000	0.9	FFB853
+Pyocyanin-PMS-EC_iAi1-rep1	EC_iAi1	1	PMS	Pyocyanin	15	10	FFB854
+Reserpine-Levofloxacin-EC_iAi1-rep1	EC_iAi1	1	Levofloxacin	Reserpine	0.063	200	FFB855
+Vanillin-Minocycline-EC_iAi1-rep1	EC_iAi1	1	Minocycline	Vanillin	1	200	FFB856
+Amoxicillin-Cefotaxime-EC_iAi1-rep1	EC_iAi1	1	Cefotaxime	Amoxicillin	0.04	2	FFB857
+Ciprofloxacin-Procaine-EC_iAi1-rep1	EC_iAi1	1	Procaine	Ciprofloxacin	11000	0.015	FFB858
+Ciprofloxacin-Rifampicin-EC_iAi1-rep1	EC_iAi1	1	Rifampicin	Ciprofloxacin	15	0.015	FFB859
+Colistin-Erythromycin-EC_iAi1-rep1	EC_iAi1	1	Erythromycin	Colistin	30	0.3	FFB860
+Doxycycline-Amikacin-EC_iAi1-rep1	EC_iAi1	1	Amikacin	Doxycycline	1	0.75	FFB861
+Doxycycline-Loperamide-EC_iAi1-rep1	EC_iAi1	1	Loperamide	Doxycycline	300	0.75	FFB862
+Fosfomycin-Erythromycin-EC_iAi1-rep1	EC_iAi1	1	Erythromycin	Fosfomycin	30	0.2	FFB863
+Mitomycin C-PMS-EC_iAi1-rep1	EC_iAi1	1	PMS	Mitomycin C	15	0.8	FFB864
+Novobiocin-Fosfomycin-EC_iAi1-rep1	EC_iAi1	1	Fosfomycin	Novobiocin	0.2	40	FFB865
+Piperacillin-Amoxicillin-EC_iAi1-rep1	EC_iAi1	1	Amoxicillin	Piperacillin	2	0.9	FFB866
+PMS-Azithromycin-EC_iAi1-rep1	EC_iAi1	1	Azithromycin	PMS	5	15	FFB867
+PMS-Aztreonam-EC_iAi1-rep1	EC_iAi1	1	Aztreonam	PMS	0.06	15	FFB868
+Paraquat-Aztreonam-EC_iAi1-rep1	EC_iAi1	1	Aztreonam	Paraquat	0.06	7	FFB869
+Ciprofloxacin-Spectinomycin-EC_iAi1-rep1	EC_iAi1	1	Spectinomycin	Ciprofloxacin	12	0.015	FFB870
+EGCG-Ciprofloxacin-EC_iAi1-rep1	EC_iAi1	1	Ciprofloxacin	EGCG	0.015	20	FFB871
+Minocycline-Ciprofloxacin-EC_iAi1-rep1	EC_iAi1	1	Ciprofloxacin	Minocycline	0.015	1	FFB872
+Minocycline-Fosfomycin-EC_iAi1-rep1	EC_iAi1	1	Fosfomycin	Minocycline	0.2	1	FFB873
+Mitomycin C-Azithromycin-EC_iAi1-rep1	EC_iAi1	1	Azithromycin	Mitomycin C	5	0.8	FFB874
+Paraquat-Azithromycin-EC_iAi1-rep1	EC_iAi1	1	Azithromycin	Paraquat	5	7	FFB875
+Procaine-Gentamicin-EC_iAi1-rep1	EC_iAi1	1	Gentamicin	Procaine	2	11000	FFB876
+Puromycin-Fosfomycin-EC_iAi1-rep1	EC_iAi1	1	Fosfomycin	Puromycin	0.2	30	FFB877
+Pyocyanin-Ciprofloxacin-EC_iAi1-rep1	EC_iAi1	1	Ciprofloxacin	Pyocyanin	0.015	10	FFB878
+Vanillin-Aztreonam-EC_iAi1-rep1	EC_iAi1	1	Aztreonam	Vanillin	0.06	200	FFB879
+Vanillin-Ciprofloxacin-EC_iAi1-rep1	EC_iAi1	1	Ciprofloxacin	Vanillin	0.015	200	FFB880
+Ciprofloxacin-Rifampicin-PA01-rep1	PA01	1	Rifampicin	Ciprofloxacin	16	1	119E0A
+Mitomycin C-Amikacin-PA01-rep1	PA01	1	Amikacin	Mitomycin C	1	2	119E0A
+Novobiocin-Fosfomycin-PA01-rep1	PA01	1	Fosfomycin	Novobiocin	15	40	119E0A
+Piperacillin-Amoxicillin-PA01-rep1	PA01	1	Amoxicillin	Piperacillin	5	5	119E0A
+Ciprofloxacin-Procaine-PA01-rep1	PA01	1	Procaine	Ciprofloxacin	11000	1	119E0A
+Fosfomycin-Mitomycin C-PA01-rep1	PA01	1	Mitomycin C	Fosfomycin	2	15	119E0A
+Mitomycin C-Procaine-PA01-rep1	PA01	1	Procaine	Mitomycin C	11000	2	119E0A
+Nitrofurantoin-Minocycline-PA01-rep1	PA01	1	Minocycline	Nitrofurantoin	20	32	119E0A
+Vanillin-Minocycline-PA01-rep1	PA01	1	Minocycline	Vanillin	20	300	119E0A
+Colistin-Erythromycin-PA01-rep1	PA01	1	Erythromycin	Colistin	70	0.5	119E0A
+Fosfomycin-Erythromycin-PA01-rep1	PA01	1	Erythromycin	Fosfomycin	70	15	119E0A
+Fosfomycin-Procaine-PA01-rep1	PA01	1	Procaine	Fosfomycin	11000	15	119E0A
+Imipenem-Cefotaxime-PA01-rep1	PA01	1	Cefotaxime	Imipenem	10	3	119E0A
+Nitrofurantoin-Ciprofloxacin-PA01-rep1	PA01	1	Ciprofloxacin	Nitrofurantoin	1	32	119E0A
+Amoxicillin-Cefotaxime-PA01-rep1	PA01	1	Cefotaxime	Amoxicillin	10	5	119E0A
+Cefotaxime-Clarithromycin-PA01-rep1	PA01	1	Clarithromycin	Cefotaxime	80	10	119E0A
+Doxycycline-Loperamide-PA01-rep1	PA01	1	Loperamide	Doxycycline	300	4	119E0A
+Levofloxacin-Procaine-PA01-rep1	PA01	1	Procaine	Levofloxacin	11000	2	119E0A
+Nitrofurantoin-Levofloxacin-PA01-rep1	PA01	1	Levofloxacin	Nitrofurantoin	2	32	119E0A
+Cerulenin-Rifampicin-PA01-rep1	PA01	1	Rifampicin	Cerulenin	16	10	119E0A
+Cycloserine D-Paraquat-PA01-rep1	PA01	1	Paraquat	Cycloserine D	10	40	119E0A
+Doxycycline-Erythromycin-PA01-rep1	PA01	1	Erythromycin	Doxycycline	70	4	119E0A
+Doxycycline-Minocycline-PA01-rep1	PA01	1	Minocycline	Doxycycline	20	4	119E0A
+Doxycycline-Novobiocin-PA01-rep1	PA01	1	Novobiocin	Doxycycline	40	4	119E0A
+Erythromycin-Loperamide-PA01-rep1	PA01	1	Loperamide	Erythromycin	300	70	119E0A
+Novobiocin-Cefaclor-PA01-rep1	PA01	1	Cefaclor	Novobiocin	5	40	119E0A
+Penicillin G-Aztreonam-PA01-rep1	PA01	1	Aztreonam	Penicillin G	6	50	119E0A
+Penicillin G-Cefsulodin-PA01-rep1	PA01	1	Cefsulodin	Penicillin G	2	50	119E0A
+Piperacillin-Procaine-PA01-rep1	PA01	1	Procaine	Piperacillin	11000	5	119E0A
+Reserpine-Levofloxacin-PA01-rep1	PA01	1	Levofloxacin	Reserpine	2	200	119E0A
+Sulfamonomethoxine-Levofloxacin-PA01-rep1	PA01	1	Levofloxacin	Sulfamonomethoxine	2	100	119E0A
+Vanillin-Novobiocin-PA01-rep1	PA01	1	Novobiocin	Vanillin	40	300	119E0A
+Nitrofurantoin-Minocycline-PA14-rep1	PA14	1	Minocycline	Nitrofurantoin	20	32	056000
+Vanillin-Minocycline-PA14-rep1	PA14	1	Minocycline	Vanillin	20	300	056000
+Fosfomycin-Procaine-PA14-rep1	PA14	1	Procaine	Fosfomycin	11000	15	056000
+Imipenem-Cefotaxime-PA14-rep1	PA14	1	Cefotaxime	Imipenem	10	3	056000
+Amoxicillin-Cefotaxime-PA14-rep1	PA14	1	Cefotaxime	Amoxicillin	10	5	056000
+Cefotaxime-Clarithromycin-PA14-rep1	PA14	1	Clarithromycin	Cefotaxime	80	10	056000
+Doxycycline-Loperamide-PA14-rep1	PA14	1	Loperamide	Doxycycline	300	4	056000
+Benzalkonium-Mecillinam-PA14-rep1	PA14	1	Mecillinam	Benzalkonium	2	50	056000
+Cerulenin-Rifampicin-PA14-rep1	PA14	1	Rifampicin	Cerulenin	16	10	056000
+Cycloserine D-Paraquat-PA14-rep1	PA14	1	Paraquat	Cycloserine D	10	40	056000
+Doxycycline-Erythromycin-PA14-rep1	PA14	1	Erythromycin	Doxycycline	70	4	056000
+Doxycycline-Minocycline-PA14-rep1	PA14	1	Minocycline	Doxycycline	20	4	056000
+Doxycycline-Novobiocin-PA14-rep1	PA14	1	Novobiocin	Doxycycline	40	4	056000
+Erythromycin-Cefaclor-PA14-rep1	PA14	1	Cefaclor	Erythromycin	5	70	056000
+Penicillin G-Aztreonam-PA14-rep1	PA14	1	Aztreonam	Penicillin G	6	50	056000
+Penicillin G-Cefsulodin-PA14-rep1	PA14	1	Cefsulodin	Penicillin G	2	50	056000
+Piperacillin-Procaine-PA14-rep1	PA14	1	Procaine	Piperacillin	11000	5	056000
+Vanillin-Novobiocin-PA14-rep1	PA14	1	Novobiocin	Vanillin	40	300	056000
+Pyocyanin-PMS-ST14028-rep1	ST14028	1	PMS	Pyocyanin	40	15	C3110C
+Doxycycline-Amikacin-ST14028-rep1	ST14028	1	Amikacin	Doxycycline	4	2	C3110C
+Amikacin-PMS-ST14028-rep1	ST14028	1	PMS	Amikacin	40	4	C3110C
+Ciprofloxacin-Rifampicin-ST14028-rep1	ST14028	1	Rifampicin	Ciprofloxacin	16	0.035	C3110C
+Erythromycin-Loperamide-ST14028-rep1	ST14028	1	Loperamide	Erythromycin	300	70	C3110C
+Paraquat-Cycloserine D-ST14028-rep1	ST14028	1	Cycloserine D	Paraquat	40	10	C3110C
+Reserpine-Levofloxacin-ST14028-rep1	ST14028	1	Levofloxacin	Reserpine	0.125	200	C3110C
+Cerulenin-Rifampicin-ST14028-rep1	ST14028	1	Rifampicin	Cerulenin	16	15	C3110C
+Doxycycline-Novobiocin-ST14028-rep1	ST14028	1	Novobiocin	Doxycycline	40	2	C3110C
+Mitomycin C-Procaine-ST14028-rep1	ST14028	1	Procaine	Mitomycin C	11000	1	C3110C
+Vanillin-Novobiocin-ST14028-rep1	ST14028	1	Novobiocin	Vanillin	40	200	C3110C
+Amoxicillin-Cefotaxime-ST14028-rep1	ST14028	1	Cefotaxime	Amoxicillin	0.08	0.5	C3110C
+Benzalkonium-Mecillinam-ST14028-rep1	ST14028	1	Mecillinam	Benzalkonium	0.2	30	C3110C
+Cefotaxime-Clarithromycin-ST14028-rep1	ST14028	1	Clarithromycin	Cefotaxime	80	0.08	C3110C
+Doxycycline-Erythromycin-ST14028-rep1	ST14028	1	Erythromycin	Doxycycline	70	2	C3110C
+Doxycycline-Loperamide-ST14028-rep1	ST14028	1	Loperamide	Doxycycline	300	2	C3110C
+Doxycycline-Minocycline-ST14028-rep1	ST14028	1	Minocycline	Doxycycline	4	2	C3110C
+Erythromycin-Cefaclor-ST14028-rep1	ST14028	1	Cefaclor	Erythromycin	0.6	70	C3110C
+Fosfomycin-Erythromycin-ST14028-rep1	ST14028	1	Erythromycin	Fosfomycin	70	0.2	C3110C
+Fosfomycin-Mitomycin C-ST14028-rep1	ST14028	1	Mitomycin C	Fosfomycin	1	0.2	C3110C
+Fosfomycin-Procaine-ST14028-rep1	ST14028	1	Procaine	Fosfomycin	11000	0.2	C3110C
+Imipenem-Cefotaxime-ST14028-rep1	ST14028	1	Cefotaxime	Imipenem	0.08	0.3	C3110C
+Levofloxacin-Procaine-ST14028-rep1	ST14028	1	Procaine	Levofloxacin	11000	0.125	C3110C
+Mitomycin C-Amikacin-ST14028-rep1	ST14028	1	Amikacin	Mitomycin C	4	1	C3110C
+Nitrofurantoin-Levofloxacin-ST14028-rep1	ST14028	1	Levofloxacin	Nitrofurantoin	0.125	16	C3110C
+Nitrofurantoin-Minocycline-ST14028-rep1	ST14028	1	Minocycline	Nitrofurantoin	4	16	C3110C
+Novobiocin-Cefaclor-ST14028-rep1	ST14028	1	Cefaclor	Novobiocin	0.6	40	C3110C
+Penicillin G-Aztreonam-ST14028-rep1	ST14028	1	Aztreonam	Penicillin G	0.07	2	C3110C
+Penicillin G-Cefsulodin-ST14028-rep1	ST14028	1	Cefsulodin	Penicillin G	40	2	C3110C
+Sulfamonomethoxine-Levofloxacin-ST14028-rep1	ST14028	1	Levofloxacin	Sulfamonomethoxine	0.125	100	C3110C
+Vanillin-Minocycline-ST14028-rep1	ST14028	1	Minocycline	Vanillin	4	200	C3110C
+Chloramphenicol-PMS-ST14028-rep1	ST14028	1	PMS	Chloramphenicol	40	4	C3110C
+Colistin-Erythromycin-ST14028-rep1	ST14028	1	Erythromycin	Colistin	70	0.3	C3110C
+Nitrofurantoin-Ciprofloxacin-ST14028-rep1	ST14028	1	Ciprofloxacin	Nitrofurantoin	0.035	16	C3110C
+Piperacillin-Amoxicillin-ST14028-rep1	ST14028	1	Amoxicillin	Piperacillin	0.5	3	C3110C
+Piperacillin-Procaine-ST14028-rep1	ST14028	1	Procaine	Piperacillin	11000	3	C3110C
+A22-Chloramphenicol-ST14028-rep1	ST14028	1	Chloramphenicol	A22	4	2	C3110C
+Ciprofloxacin-Spectinomycin-ST14028-rep1	ST14028	1	Spectinomycin	Ciprofloxacin	30	0.035	C3110C
+Doxycycline-Ciprofloxacin-ST14028-rep1	ST14028	1	Ciprofloxacin	Doxycycline	0.035	2	C3110C
+EGCG-Ciprofloxacin-ST14028-rep1	ST14028	1	Ciprofloxacin	EGCG	0.035	20	C3110C
+Minocycline-Ciprofloxacin-ST14028-rep1	ST14028	1	Ciprofloxacin	Minocycline	0.035	4	C3110C
+Mitomycin C-Azithromycin-ST14028-rep1	ST14028	1	Azithromycin	Mitomycin C	7.5	1	C3110C
+Paraquat-Azithromycin-ST14028-rep1	ST14028	1	Azithromycin	Paraquat	7.5	10	C3110C
+Piperacillin-Fosfomycin-ST14028-rep1	ST14028	1	Fosfomycin	Piperacillin	0.2	3	C3110C
+PMS-Azithromycin-ST14028-rep1	ST14028	1	Azithromycin	PMS	7.5	40	C3110C
+Procaine-Gentamicin-ST14028-rep1	ST14028	1	Gentamicin	Procaine	2	11000	C3110C
+Pyocyanin-Ciprofloxacin-ST14028-rep1	ST14028	1	Ciprofloxacin	Pyocyanin	0.035	15	C3110C
+Vanillin-Ciprofloxacin-ST14028-rep1	ST14028	1	Ciprofloxacin	Vanillin	0.035	200	C3110C
+Doxycycline-Amikacin-ST_LT2-rep1	ST_LT2	1	Amikacin	Doxycycline	4	2	770300
+Pyocyanin-PMS-ST_LT2-rep1	ST_LT2	1	PMS	Pyocyanin	40	15	770300
+Amikacin-PMS-ST_LT2-rep1	ST_LT2	1	PMS	Amikacin	40	4	770300
+Ciprofloxacin-Rifampicin-ST_LT2-rep1	ST_LT2	1	Rifampicin	Ciprofloxacin	16	0.035	770300
+Erythromycin-Loperamide-ST_LT2-rep1	ST_LT2	1	Loperamide	Erythromycin	300	70	770300
+Paraquat-Cycloserine D-ST_LT2-rep1	ST_LT2	1	Cycloserine D	Paraquat	40	10	770300
+Reserpine-Levofloxacin-ST_LT2-rep1	ST_LT2	1	Levofloxacin	Reserpine	0.125	200	770300
+Cerulenin-Rifampicin-ST_LT2-rep1	ST_LT2	1	Rifampicin	Cerulenin	16	15	770300
+Doxycycline-Novobiocin-ST_LT2-rep1	ST_LT2	1	Novobiocin	Doxycycline	40	2	770300
+Mitomycin C-PMS-ST_LT2-rep1	ST_LT2	1	PMS	Mitomycin C	40	1	770300
+Mitomycin C-Procaine-ST_LT2-rep1	ST_LT2	1	Procaine	Mitomycin C	11000	1	770300
+Novobiocin-Fosfomycin-ST_LT2-rep1	ST_LT2	1	Fosfomycin	Novobiocin	0.2	40	770300
+Vanillin-Novobiocin-ST_LT2-rep1	ST_LT2	1	Novobiocin	Vanillin	40	200	770300
+Amoxicillin-Cefotaxime-ST_LT2-rep1	ST_LT2	1	Cefotaxime	Amoxicillin	0.08	0.5	770300
+Cefotaxime-Clarithromycin-ST_LT2-rep1	ST_LT2	1	Clarithromycin	Cefotaxime	80	0.08	770300
+Doxycycline-Erythromycin-ST_LT2-rep1	ST_LT2	1	Erythromycin	Doxycycline	70	2	770300
+Doxycycline-Loperamide-ST_LT2-rep1	ST_LT2	1	Loperamide	Doxycycline	300	2	770300
+Doxycycline-Minocycline-ST_LT2-rep1	ST_LT2	1	Minocycline	Doxycycline	4	2	770300
+Erythromycin-Cefaclor-ST_LT2-rep1	ST_LT2	1	Cefaclor	Erythromycin	0.6	70	770300
+Fosfomycin-Erythromycin-ST_LT2-rep1	ST_LT2	1	Erythromycin	Fosfomycin	70	0.2	770300
+Fosfomycin-Mitomycin C-ST_LT2-rep1	ST_LT2	1	Mitomycin C	Fosfomycin	1	0.2	770300
+Fosfomycin-Procaine-ST_LT2-rep1	ST_LT2	1	Procaine	Fosfomycin	11000	0.2	770300
+Imipenem-Cefotaxime-ST_LT2-rep1	ST_LT2	1	Cefotaxime	Imipenem	0.08	0.3	770300
+Levofloxacin-Procaine-ST_LT2-rep1	ST_LT2	1	Procaine	Levofloxacin	11000	0.125	770300
+Penicillin G-Aztreonam-ST_LT2-rep1	ST_LT2	1	Aztreonam	Penicillin G	0.07	2	770300
+Penicillin G-Cefsulodin-ST_LT2-rep1	ST_LT2	1	Cefsulodin	Penicillin G	40	2	770300
+Sulfamonomethoxine-Levofloxacin-ST_LT2-rep1	ST_LT2	1	Levofloxacin	Sulfamonomethoxine	0.125	100	770300
+Vanillin-Minocycline-ST_LT2-rep1	ST_LT2	1	Minocycline	Vanillin	4	200	770300
+Colistin-Erythromycin-ST_LT2-rep1	ST_LT2	1	Erythromycin	Colistin	70	0.3	770300
+Piperacillin-Amoxicillin-ST_LT2-rep1	ST_LT2	1	Amoxicillin	Piperacillin	0.5	3	770300
+Piperacillin-Procaine-ST_LT2-rep1	ST_LT2	1	Procaine	Piperacillin	11000	3	770300
+A22-Chloramphenicol-ST_LT2-rep1	ST_LT2	1	Chloramphenicol	A22	4	2	770300
+Ciprofloxacin-Spectinomycin-ST_LT2-rep1	ST_LT2	1	Spectinomycin	Ciprofloxacin	30	0.035	770300
+Doxycycline-Ciprofloxacin-ST_LT2-rep1	ST_LT2	1	Ciprofloxacin	Doxycycline	0.035	2	770300
+EGCG-Ciprofloxacin-ST_LT2-rep1	ST_LT2	1	Ciprofloxacin	EGCG	0.035	20	770300
+Minocycline-Ciprofloxacin-ST_LT2-rep1	ST_LT2	1	Ciprofloxacin	Minocycline	0.035	4	770300
+Mitomycin C-Azithromycin-ST_LT2-rep1	ST_LT2	1	Azithromycin	Mitomycin C	7.5	1	770300
+Paraquat-Azithromycin-ST_LT2-rep1	ST_LT2	1	Azithromycin	Paraquat	7.5	10	770300
+Piperacillin-Fosfomycin-ST_LT2-rep1	ST_LT2	1	Fosfomycin	Piperacillin	0.2	3	770300
+PMS-Azithromycin-ST_LT2-rep1	ST_LT2	1	Azithromycin	PMS	7.5	40	770300
+Procaine-Gentamicin-ST_LT2-rep1	ST_LT2	1	Gentamicin	Procaine	2	11000	770300
+Pyocyanin-Ciprofloxacin-ST_LT2-rep1	ST_LT2	1	Ciprofloxacin	Pyocyanin	0.035	15	770300
+Vanillin-Ciprofloxacin-ST_LT2-rep1	ST_LT2	1	Ciprofloxacin	Vanillin	0.035	200	770300
+Fosfomycin-Procaine-EC_BW-rep2	EC_BW	2	Procaine	Fosfomycin	11000	0.2	F8A100
+Imipenem-Cefotaxime-EC_BW-rep2	EC_BW	2	Cefotaxime	Imipenem	0.04	0.25	F8A101
+Vanillin-Novobiocin-EC_BW-rep2	EC_BW	2	Novobiocin	Vanillin	40	200	F8A102
+Mitomycin C-Amikacin-EC_BW-rep2	EC_BW	2	Amikacin	Mitomycin C	1	0.8	F8A103
+Mitomycin C-Procaine-EC_BW-rep2	EC_BW	2	Procaine	Mitomycin C	11000	0.8	F8A104
+Amikacin-PMS-EC_BW-rep2	EC_BW	2	PMS	Amikacin	15	1	F8A105
+Erythromycin-Cefaclor-EC_BW-rep2	EC_BW	2	Cefaclor	Erythromycin	2	30	F8A106
+Penicillin G-Cefsulodin-EC_BW-rep2	EC_BW	2	Cefsulodin	Penicillin G	40	50	F8A107
+Sulfamonomethoxine-Levofloxacin-EC_BW-rep2	EC_BW	2	Levofloxacin	Sulfamonomethoxine	0.063	100	F8A108
+Cerulenin-Rifampicin-EC_BW-rep2	EC_BW	2	Rifampicin	Cerulenin	15	10	F8A109
+Doxycycline-Erythromycin-EC_BW-rep2	EC_BW	2	Erythromycin	Doxycycline	30	0.75	F8A110
+Doxycycline-Novobiocin-EC_BW-rep2	EC_BW	2	Novobiocin	Doxycycline	40	0.75	F8A111
+Mecillinam-PMS-EC_BW-rep2	EC_BW	2	PMS	Mecillinam	15	0.2	F8A112
+Novobiocin-Cefaclor-EC_BW-rep2	EC_BW	2	Cefaclor	Novobiocin	2	40	F8A113
+Benzalkonium-Mecillinam-EC_BW-rep2	EC_BW	2	Mecillinam	Benzalkonium	0.2	20	F8A114
+Cefotaxime-Clarithromycin-EC_BW-rep2	EC_BW	2	Clarithromycin	Cefotaxime	80	0.04	F8A115
+Doxycycline-Minocycline-EC_BW-rep2	EC_BW	2	Minocycline	Doxycycline	1	0.75	F8A116
+Levofloxacin-Procaine-EC_BW-rep2	EC_BW	2	Procaine	Levofloxacin	11000	0.063	F8A117
+Mecillinam-Paraquat-EC_BW-rep2	EC_BW	2	Paraquat	Mecillinam	7	0.2	F8A118
+Nitrofurantoin-Ciprofloxacin-EC_BW-rep2	EC_BW	2	Ciprofloxacin	Nitrofurantoin	0.015	8	F8A119
+Nitrofurantoin-Levofloxacin-EC_BW-rep2	EC_BW	2	Levofloxacin	Nitrofurantoin	0.063	8	F8A120
+Paraquat-Cycloserine D-EC_BW-rep2	EC_BW	2	Cycloserine D	Paraquat	15	7	F8A121
+Piperacillin-Procaine-EC_BW-rep2	EC_BW	2	Procaine	Piperacillin	11000	0.9	F8A122
+Pyocyanin-PMS-EC_BW-rep2	EC_BW	2	PMS	Pyocyanin	15	10	F8A123
+Reserpine-Levofloxacin-EC_BW-rep2	EC_BW	2	Levofloxacin	Reserpine	0.063	200	F8A124
+Vanillin-Minocycline-EC_BW-rep2	EC_BW	2	Minocycline	Vanillin	1	200	F8A125
+Amoxicillin-Cefotaxime-EC_BW-rep2	EC_BW	2	Cefotaxime	Amoxicillin	0.04	2	F8A126
+Ciprofloxacin-Procaine-EC_BW-rep2	EC_BW	2	Procaine	Ciprofloxacin	11000	0.015	F8A127
+Ciprofloxacin-Rifampicin-EC_BW-rep2	EC_BW	2	Rifampicin	Ciprofloxacin	15	0.015	F8A128
+Colistin-Erythromycin-EC_BW-rep2	EC_BW	2	Erythromycin	Colistin	30	0.3	F8A129
+Doxycycline-Amikacin-EC_BW-rep2	EC_BW	2	Amikacin	Doxycycline	1	0.75	F8A130
+Doxycycline-Loperamide-EC_BW-rep2	EC_BW	2	Loperamide	Doxycycline	300	0.75	F8A131
+Fosfomycin-Erythromycin-EC_BW-rep2	EC_BW	2	Erythromycin	Fosfomycin	30	0.2	F8A132
+Fosfomycin-Mitomycin C-EC_BW-rep2	EC_BW	2	Mitomycin C	Fosfomycin	0.8	0.2	F8A133
+Mitomycin C-PMS-EC_BW-rep2	EC_BW	2	PMS	Mitomycin C	15	0.8	F8A134
+Novobiocin-Fosfomycin-EC_BW-rep2	EC_BW	2	Fosfomycin	Novobiocin	0.2	40	F8A135
+Penicillin G-Aztreonam-EC_BW-rep2	EC_BW	2	Aztreonam	Penicillin G	0.06	50	F8A136
+Piperacillin-Amoxicillin-EC_BW-rep2	EC_BW	2	Amoxicillin	Piperacillin	2	0.9	F8A137
+Paraquat-Aztreonam-EC_BW-rep2	EC_BW	2	Aztreonam	Paraquat	0.06	7	F8A138
+EGCG-Ciprofloxacin-EC_BW-rep2	EC_BW	2	Ciprofloxacin	EGCG	0.015	20	F8A139
+PMS-Azithromycin-EC_BW-rep2	EC_BW	2	Azithromycin	PMS	5	15	F8A140
+Caffeine-Aztreonam-EC_BW-rep2	EC_BW	2	Aztreonam	Caffeine	0.06	200	F8A141
+Ciprofloxacin-Spectinomycin-EC_BW-rep2	EC_BW	2	Spectinomycin	Ciprofloxacin	12	0.015	F8A142
+Doxycycline-Ciprofloxacin-EC_BW-rep2	EC_BW	2	Ciprofloxacin	Doxycycline	0.015	0.75	F8A143
+Minocycline-Ciprofloxacin-EC_BW-rep2	EC_BW	2	Ciprofloxacin	Minocycline	0.015	1	F8A144
+Minocycline-Fosfomycin-EC_BW-rep2	EC_BW	2	Fosfomycin	Minocycline	0.2	1	F8A145
+Mitomycin C-Azithromycin-EC_BW-rep2	EC_BW	2	Azithromycin	Mitomycin C	5	0.8	F8A146
+Mitomycin C-Aztreonam-EC_BW-rep2	EC_BW	2	Aztreonam	Mitomycin C	0.06	0.8	F8A147
+Paraquat-Azithromycin-EC_BW-rep2	EC_BW	2	Azithromycin	Paraquat	5	7	F8A148
+Piperacillin-Fosfomycin-EC_BW-rep2	EC_BW	2	Fosfomycin	Piperacillin	0.2	0.9	F8A149
+PMS-Aztreonam-EC_BW-rep2	EC_BW	2	Aztreonam	PMS	0.06	15	F8A150
+Procaine-Gentamicin-EC_BW-rep2	EC_BW	2	Gentamicin	Procaine	2	11000	F8A151
+Puromycin-Fosfomycin-EC_BW-rep2	EC_BW	2	Fosfomycin	Puromycin	0.2	30	F8A152
+Pyocyanin-Ciprofloxacin-EC_BW-rep2	EC_BW	2	Ciprofloxacin	Pyocyanin	0.015	10	F8A153
+Vanillin-Aztreonam-EC_BW-rep2	EC_BW	2	Aztreonam	Vanillin	0.06	200	F8A154
+Vanillin-Ciprofloxacin-EC_BW-rep2	EC_BW	2	Ciprofloxacin	Vanillin	0.015	200	F8A155
+Fosfomycin-Procaine-EC_iAi1-rep2	EC_iAi1	2	Procaine	Fosfomycin	11000	0.2	FFB836
+Imipenem-Cefotaxime-EC_iAi1-rep2	EC_iAi1	2	Cefotaxime	Imipenem	0.04	0.25	FFB837
+Vanillin-Novobiocin-EC_iAi1-rep2	EC_iAi1	2	Novobiocin	Vanillin	40	200	FFB838
+Mitomycin C-Procaine-EC_iAi1-rep2	EC_iAi1	2	Procaine	Mitomycin C	11000	0.8	FFB839
+Amikacin-PMS-EC_iAi1-rep2	EC_iAi1	2	PMS	Amikacin	15	1	FFB840
+Erythromycin-Cefaclor-EC_iAi1-rep2	EC_iAi1	2	Cefaclor	Erythromycin	2	30	FFB841
+Erythromycin-Loperamide-EC_iAi1-rep2	EC_iAi1	2	Loperamide	Erythromycin	300	30	FFB842
+Penicillin G-Cefsulodin-EC_iAi1-rep2	EC_iAi1	2	Cefsulodin	Penicillin G	40	50	FFB843
+Sulfamonomethoxine-Levofloxacin-EC_iAi1-rep2	EC_iAi1	2	Levofloxacin	Sulfamonomethoxine	0.063	100	FFB844
+Cerulenin-Rifampicin-EC_iAi1-rep2	EC_iAi1	2	Rifampicin	Cerulenin	15	10	FFB845
+Doxycycline-Erythromycin-EC_iAi1-rep2	EC_iAi1	2	Erythromycin	Doxycycline	30	0.75	FFB846
+Novobiocin-Cefaclor-EC_iAi1-rep2	EC_iAi1	2	Cefaclor	Novobiocin	2	40	FFB847
+Cefotaxime-Clarithromycin-EC_iAi1-rep2	EC_iAi1	2	Clarithromycin	Cefotaxime	80	0.04	FFB848
+Doxycycline-Minocycline-EC_iAi1-rep2	EC_iAi1	2	Minocycline	Doxycycline	1	0.75	FFB849
+Nitrofurantoin-Levofloxacin-EC_iAi1-rep2	EC_iAi1	2	Levofloxacin	Nitrofurantoin	0.063	8	FFB850
+Nitrofurantoin-Minocycline-EC_iAi1-rep2	EC_iAi1	2	Minocycline	Nitrofurantoin	1	8	FFB851
+Paraquat-Cycloserine D-EC_iAi1-rep2	EC_iAi1	2	Cycloserine D	Paraquat	15	7	FFB852
+Piperacillin-Procaine-EC_iAi1-rep2	EC_iAi1	2	Procaine	Piperacillin	11000	0.9	FFB853
+Pyocyanin-PMS-EC_iAi1-rep2	EC_iAi1	2	PMS	Pyocyanin	15	10	FFB854
+Reserpine-Levofloxacin-EC_iAi1-rep2	EC_iAi1	2	Levofloxacin	Reserpine	0.063	200	FFB855
+Vanillin-Minocycline-EC_iAi1-rep2	EC_iAi1	2	Minocycline	Vanillin	1	200	FFB856
+Amoxicillin-Cefotaxime-EC_iAi1-rep2	EC_iAi1	2	Cefotaxime	Amoxicillin	0.04	2	FFB857
+Ciprofloxacin-Procaine-EC_iAi1-rep2	EC_iAi1	2	Procaine	Ciprofloxacin	11000	0.015	FFB858
+Ciprofloxacin-Rifampicin-EC_iAi1-rep2	EC_iAi1	2	Rifampicin	Ciprofloxacin	15	0.015	FFB859
+Colistin-Erythromycin-EC_iAi1-rep2	EC_iAi1	2	Erythromycin	Colistin	30	0.3	FFB860
+Doxycycline-Amikacin-EC_iAi1-rep2	EC_iAi1	2	Amikacin	Doxycycline	1	0.75	FFB861
+Doxycycline-Loperamide-EC_iAi1-rep2	EC_iAi1	2	Loperamide	Doxycycline	300	0.75	FFB862
+Fosfomycin-Erythromycin-EC_iAi1-rep2	EC_iAi1	2	Erythromycin	Fosfomycin	30	0.2	FFB863
+Mitomycin C-PMS-EC_iAi1-rep2	EC_iAi1	2	PMS	Mitomycin C	15	0.8	FFB864
+Novobiocin-Fosfomycin-EC_iAi1-rep2	EC_iAi1	2	Fosfomycin	Novobiocin	0.2	40	FFB865
+Piperacillin-Amoxicillin-EC_iAi1-rep2	EC_iAi1	2	Amoxicillin	Piperacillin	2	0.9	FFB866
+PMS-Azithromycin-EC_iAi1-rep2	EC_iAi1	2	Azithromycin	PMS	5	15	FFB867
+PMS-Aztreonam-EC_iAi1-rep2	EC_iAi1	2	Aztreonam	PMS	0.06	15	FFB868
+Paraquat-Aztreonam-EC_iAi1-rep2	EC_iAi1	2	Aztreonam	Paraquat	0.06	7	FFB869
+Ciprofloxacin-Spectinomycin-EC_iAi1-rep2	EC_iAi1	2	Spectinomycin	Ciprofloxacin	12	0.015	FFB870
+EGCG-Ciprofloxacin-EC_iAi1-rep2	EC_iAi1	2	Ciprofloxacin	EGCG	0.015	20	FFB871
+Minocycline-Ciprofloxacin-EC_iAi1-rep2	EC_iAi1	2	Ciprofloxacin	Minocycline	0.015	1	FFB872
+Minocycline-Fosfomycin-EC_iAi1-rep2	EC_iAi1	2	Fosfomycin	Minocycline	0.2	1	FFB873
+Mitomycin C-Azithromycin-EC_iAi1-rep2	EC_iAi1	2	Azithromycin	Mitomycin C	5	0.8	FFB874
+Paraquat-Azithromycin-EC_iAi1-rep2	EC_iAi1	2	Azithromycin	Paraquat	5	7	FFB875
+Procaine-Gentamicin-EC_iAi1-rep2	EC_iAi1	2	Gentamicin	Procaine	2	11000	FFB876
+Puromycin-Fosfomycin-EC_iAi1-rep2	EC_iAi1	2	Fosfomycin	Puromycin	0.2	30	FFB877
+Pyocyanin-Ciprofloxacin-EC_iAi1-rep2	EC_iAi1	2	Ciprofloxacin	Pyocyanin	0.015	10	FFB878
+Vanillin-Aztreonam-EC_iAi1-rep2	EC_iAi1	2	Aztreonam	Vanillin	0.06	200	FFB879
+Vanillin-Ciprofloxacin-EC_iAi1-rep2	EC_iAi1	2	Ciprofloxacin	Vanillin	0.015	200	FFB880
+Ciprofloxacin-Rifampicin-PA01-rep2	PA01	2	Rifampicin	Ciprofloxacin	16	1	119E0A
+Mitomycin C-Amikacin-PA01-rep2	PA01	2	Amikacin	Mitomycin C	1	2	119E0A
+Novobiocin-Fosfomycin-PA01-rep2	PA01	2	Fosfomycin	Novobiocin	15	40	119E0A
+Piperacillin-Amoxicillin-PA01-rep2	PA01	2	Amoxicillin	Piperacillin	5	5	119E0A
+Ciprofloxacin-Procaine-PA01-rep2	PA01	2	Procaine	Ciprofloxacin	11000	1	119E0A
+Fosfomycin-Mitomycin C-PA01-rep2	PA01	2	Mitomycin C	Fosfomycin	2	15	119E0A
+Mitomycin C-Procaine-PA01-rep2	PA01	2	Procaine	Mitomycin C	11000	2	119E0A
+Nitrofurantoin-Minocycline-PA01-rep2	PA01	2	Minocycline	Nitrofurantoin	20	32	119E0A
+Vanillin-Minocycline-PA01-rep2	PA01	2	Minocycline	Vanillin	20	300	119E0A
+Colistin-Erythromycin-PA01-rep2	PA01	2	Erythromycin	Colistin	70	0.5	119E0A
+Fosfomycin-Erythromycin-PA01-rep2	PA01	2	Erythromycin	Fosfomycin	70	15	119E0A
+Fosfomycin-Procaine-PA01-rep2	PA01	2	Procaine	Fosfomycin	11000	15	119E0A
+Imipenem-Cefotaxime-PA01-rep2	PA01	2	Cefotaxime	Imipenem	10	3	119E0A
+Nitrofurantoin-Ciprofloxacin-PA01-rep2	PA01	2	Ciprofloxacin	Nitrofurantoin	1	32	119E0A
+Amoxicillin-Cefotaxime-PA01-rep2	PA01	2	Cefotaxime	Amoxicillin	10	5	119E0A
+Cefotaxime-Clarithromycin-PA01-rep2	PA01	2	Clarithromycin	Cefotaxime	80	10	119E0A
+Doxycycline-Loperamide-PA01-rep2	PA01	2	Loperamide	Doxycycline	300	4	119E0A
+Levofloxacin-Procaine-PA01-rep2	PA01	2	Procaine	Levofloxacin	11000	2	119E0A
+Nitrofurantoin-Levofloxacin-PA01-rep2	PA01	2	Levofloxacin	Nitrofurantoin	2	32	119E0A
+Cerulenin-Rifampicin-PA01-rep2	PA01	2	Rifampicin	Cerulenin	16	10	119E0A
+Cycloserine D-Paraquat-PA01-rep2	PA01	2	Paraquat	Cycloserine D	10	40	119E0A
+Doxycycline-Erythromycin-PA01-rep2	PA01	2	Erythromycin	Doxycycline	70	4	119E0A
+Doxycycline-Minocycline-PA01-rep2	PA01	2	Minocycline	Doxycycline	20	4	119E0A
+Doxycycline-Novobiocin-PA01-rep2	PA01	2	Novobiocin	Doxycycline	40	4	119E0A
+Erythromycin-Loperamide-PA01-rep2	PA01	2	Loperamide	Erythromycin	300	70	119E0A
+Novobiocin-Cefaclor-PA01-rep2	PA01	2	Cefaclor	Novobiocin	5	40	119E0A
+Penicillin G-Aztreonam-PA01-rep2	PA01	2	Aztreonam	Penicillin G	6	50	119E0A
+Penicillin G-Cefsulodin-PA01-rep2	PA01	2	Cefsulodin	Penicillin G	2	50	119E0A
+Piperacillin-Procaine-PA01-rep2	PA01	2	Procaine	Piperacillin	11000	5	119E0A
+Reserpine-Levofloxacin-PA01-rep2	PA01	2	Levofloxacin	Reserpine	2	200	119E0A
+Sulfamonomethoxine-Levofloxacin-PA01-rep2	PA01	2	Levofloxacin	Sulfamonomethoxine	2	100	119E0A
+Vanillin-Novobiocin-PA01-rep2	PA01	2	Novobiocin	Vanillin	40	300	119E0A
+Nitrofurantoin-Minocycline-PA14-rep2	PA14	2	Minocycline	Nitrofurantoin	20	32	056000
+Vanillin-Minocycline-PA14-rep2	PA14	2	Minocycline	Vanillin	20	300	056000
+Fosfomycin-Procaine-PA14-rep2	PA14	2	Procaine	Fosfomycin	11000	15	056000
+Imipenem-Cefotaxime-PA14-rep2	PA14	2	Cefotaxime	Imipenem	10	3	056000
+Amoxicillin-Cefotaxime-PA14-rep2	PA14	2	Cefotaxime	Amoxicillin	10	5	056000
+Cefotaxime-Clarithromycin-PA14-rep2	PA14	2	Clarithromycin	Cefotaxime	80	10	056000
+Doxycycline-Loperamide-PA14-rep2	PA14	2	Loperamide	Doxycycline	300	4	056000
+Benzalkonium-Mecillinam-PA14-rep2	PA14	2	Mecillinam	Benzalkonium	2	50	056000
+Cerulenin-Rifampicin-PA14-rep2	PA14	2	Rifampicin	Cerulenin	16	10	056000
+Cycloserine D-Paraquat-PA14-rep2	PA14	2	Paraquat	Cycloserine D	10	40	056000
+Doxycycline-Erythromycin-PA14-rep2	PA14	2	Erythromycin	Doxycycline	70	4	056000
+Doxycycline-Minocycline-PA14-rep2	PA14	2	Minocycline	Doxycycline	20	4	056000
+Doxycycline-Novobiocin-PA14-rep2	PA14	2	Novobiocin	Doxycycline	40	4	056000
+Erythromycin-Cefaclor-PA14-rep2	PA14	2	Cefaclor	Erythromycin	5	70	056000
+Penicillin G-Aztreonam-PA14-rep2	PA14	2	Aztreonam	Penicillin G	6	50	056000
+Penicillin G-Cefsulodin-PA14-rep2	PA14	2	Cefsulodin	Penicillin G	2	50	056000
+Piperacillin-Procaine-PA14-rep2	PA14	2	Procaine	Piperacillin	11000	5	056000
+Vanillin-Novobiocin-PA14-rep2	PA14	2	Novobiocin	Vanillin	40	300	056000
+Pyocyanin-PMS-ST14028-rep2	ST14028	2	PMS	Pyocyanin	40	15	C3110C
+Doxycycline-Amikacin-ST14028-rep2	ST14028	2	Amikacin	Doxycycline	4	2	C3110C
+Amikacin-PMS-ST14028-rep2	ST14028	2	PMS	Amikacin	40	4	C3110C
+Ciprofloxacin-Rifampicin-ST14028-rep2	ST14028	2	Rifampicin	Ciprofloxacin	16	0.035	C3110C
+Erythromycin-Loperamide-ST14028-rep2	ST14028	2	Loperamide	Erythromycin	300	70	C3110C
+Paraquat-Cycloserine D-ST14028-rep2	ST14028	2	Cycloserine D	Paraquat	40	10	C3110C
+Reserpine-Levofloxacin-ST14028-rep2	ST14028	2	Levofloxacin	Reserpine	0.125	200	C3110C
+Cerulenin-Rifampicin-ST14028-rep2	ST14028	2	Rifampicin	Cerulenin	16	15	C3110C
+Doxycycline-Novobiocin-ST14028-rep2	ST14028	2	Novobiocin	Doxycycline	40	2	C3110C
+Mitomycin C-Procaine-ST14028-rep2	ST14028	2	Procaine	Mitomycin C	11000	1	C3110C
+Vanillin-Novobiocin-ST14028-rep2	ST14028	2	Novobiocin	Vanillin	40	200	C3110C
+Amoxicillin-Cefotaxime-ST14028-rep2	ST14028	2	Cefotaxime	Amoxicillin	0.08	0.5	C3110C
+Benzalkonium-Mecillinam-ST14028-rep2	ST14028	2	Mecillinam	Benzalkonium	0.2	30	C3110C
+Cefotaxime-Clarithromycin-ST14028-rep2	ST14028	2	Clarithromycin	Cefotaxime	80	0.08	C3110C
+Doxycycline-Erythromycin-ST14028-rep2	ST14028	2	Erythromycin	Doxycycline	70	2	C3110C
+Doxycycline-Loperamide-ST14028-rep2	ST14028	2	Loperamide	Doxycycline	300	2	C3110C
+Doxycycline-Minocycline-ST14028-rep2	ST14028	2	Minocycline	Doxycycline	4	2	C3110C
+Erythromycin-Cefaclor-ST14028-rep2	ST14028	2	Cefaclor	Erythromycin	0.6	70	C3110C
+Fosfomycin-Erythromycin-ST14028-rep2	ST14028	2	Erythromycin	Fosfomycin	70	0.2	C3110C
+Fosfomycin-Mitomycin C-ST14028-rep2	ST14028	2	Mitomycin C	Fosfomycin	1	0.2	C3110C
+Fosfomycin-Procaine-ST14028-rep2	ST14028	2	Procaine	Fosfomycin	11000	0.2	C3110C
+Imipenem-Cefotaxime-ST14028-rep2	ST14028	2	Cefotaxime	Imipenem	0.08	0.3	C3110C
+Levofloxacin-Procaine-ST14028-rep2	ST14028	2	Procaine	Levofloxacin	11000	0.125	C3110C
+Mitomycin C-Amikacin-ST14028-rep2	ST14028	2	Amikacin	Mitomycin C	4	1	C3110C
+Nitrofurantoin-Levofloxacin-ST14028-rep2	ST14028	2	Levofloxacin	Nitrofurantoin	0.125	16	C3110C
+Nitrofurantoin-Minocycline-ST14028-rep2	ST14028	2	Minocycline	Nitrofurantoin	4	16	C3110C
+Novobiocin-Cefaclor-ST14028-rep2	ST14028	2	Cefaclor	Novobiocin	0.6	40	C3110C
+Penicillin G-Aztreonam-ST14028-rep2	ST14028	2	Aztreonam	Penicillin G	0.07	2	C3110C
+Penicillin G-Cefsulodin-ST14028-rep2	ST14028	2	Cefsulodin	Penicillin G	40	2	C3110C
+Sulfamonomethoxine-Levofloxacin-ST14028-rep2	ST14028	2	Levofloxacin	Sulfamonomethoxine	0.125	100	C3110C
+Vanillin-Minocycline-ST14028-rep2	ST14028	2	Minocycline	Vanillin	4	200	C3110C
+Chloramphenicol-PMS-ST14028-rep2	ST14028	2	PMS	Chloramphenicol	40	4	C3110C
+Colistin-Erythromycin-ST14028-rep2	ST14028	2	Erythromycin	Colistin	70	0.3	C3110C
+Nitrofurantoin-Ciprofloxacin-ST14028-rep2	ST14028	2	Ciprofloxacin	Nitrofurantoin	0.035	16	C3110C
+Piperacillin-Amoxicillin-ST14028-rep2	ST14028	2	Amoxicillin	Piperacillin	0.5	3	C3110C
+Piperacillin-Procaine-ST14028-rep2	ST14028	2	Procaine	Piperacillin	11000	3	C3110C
+A22-Chloramphenicol-ST14028-rep2	ST14028	2	Chloramphenicol	A22	4	2	C3110C
+Ciprofloxacin-Spectinomycin-ST14028-rep2	ST14028	2	Spectinomycin	Ciprofloxacin	30	0.035	C3110C
+Doxycycline-Ciprofloxacin-ST14028-rep2	ST14028	2	Ciprofloxacin	Doxycycline	0.035	2	C3110C
+EGCG-Ciprofloxacin-ST14028-rep2	ST14028	2	Ciprofloxacin	EGCG	0.035	20	C3110C
+Minocycline-Ciprofloxacin-ST14028-rep2	ST14028	2	Ciprofloxacin	Minocycline	0.035	4	C3110C
+Mitomycin C-Azithromycin-ST14028-rep2	ST14028	2	Azithromycin	Mitomycin C	7.5	1	C3110C
+Paraquat-Azithromycin-ST14028-rep2	ST14028	2	Azithromycin	Paraquat	7.5	10	C3110C
+Piperacillin-Fosfomycin-ST14028-rep2	ST14028	2	Fosfomycin	Piperacillin	0.2	3	C3110C
+PMS-Azithromycin-ST14028-rep2	ST14028	2	Azithromycin	PMS	7.5	40	C3110C
+Procaine-Gentamicin-ST14028-rep2	ST14028	2	Gentamicin	Procaine	2	11000	C3110C
+Pyocyanin-Ciprofloxacin-ST14028-rep2	ST14028	2	Ciprofloxacin	Pyocyanin	0.035	15	C3110C
+Vanillin-Ciprofloxacin-ST14028-rep2	ST14028	2	Ciprofloxacin	Vanillin	0.035	200	C3110C
+Doxycycline-Amikacin-ST_LT2-rep2	ST_LT2	2	Amikacin	Doxycycline	4	2	770300
+Pyocyanin-PMS-ST_LT2-rep2	ST_LT2	2	PMS	Pyocyanin	40	15	770300
+Amikacin-PMS-ST_LT2-rep2	ST_LT2	2	PMS	Amikacin	40	4	770300
+Ciprofloxacin-Rifampicin-ST_LT2-rep2	ST_LT2	2	Rifampicin	Ciprofloxacin	16	0.035	770300
+Erythromycin-Loperamide-ST_LT2-rep2	ST_LT2	2	Loperamide	Erythromycin	300	70	770300
+Paraquat-Cycloserine D-ST_LT2-rep2	ST_LT2	2	Cycloserine D	Paraquat	40	10	770300
+Reserpine-Levofloxacin-ST_LT2-rep2	ST_LT2	2	Levofloxacin	Reserpine	0.125	200	770300
+Cerulenin-Rifampicin-ST_LT2-rep2	ST_LT2	2	Rifampicin	Cerulenin	16	15	770300
+Doxycycline-Novobiocin-ST_LT2-rep2	ST_LT2	2	Novobiocin	Doxycycline	40	2	770300
+Mitomycin C-PMS-ST_LT2-rep2	ST_LT2	2	PMS	Mitomycin C	40	1	770300
+Mitomycin C-Procaine-ST_LT2-rep2	ST_LT2	2	Procaine	Mitomycin C	11000	1	770300
+Novobiocin-Fosfomycin-ST_LT2-rep2	ST_LT2	2	Fosfomycin	Novobiocin	0.2	40	770300
+Vanillin-Novobiocin-ST_LT2-rep2	ST_LT2	2	Novobiocin	Vanillin	40	200	770300
+Amoxicillin-Cefotaxime-ST_LT2-rep2	ST_LT2	2	Cefotaxime	Amoxicillin	0.08	0.5	770300
+Cefotaxime-Clarithromycin-ST_LT2-rep2	ST_LT2	2	Clarithromycin	Cefotaxime	80	0.08	770300
+Doxycycline-Erythromycin-ST_LT2-rep2	ST_LT2	2	Erythromycin	Doxycycline	70	2	770300
+Doxycycline-Loperamide-ST_LT2-rep2	ST_LT2	2	Loperamide	Doxycycline	300	2	770300
+Doxycycline-Minocycline-ST_LT2-rep2	ST_LT2	2	Minocycline	Doxycycline	4	2	770300
+Erythromycin-Cefaclor-ST_LT2-rep2	ST_LT2	2	Cefaclor	Erythromycin	0.6	70	770300
+Fosfomycin-Erythromycin-ST_LT2-rep2	ST_LT2	2	Erythromycin	Fosfomycin	70	0.2	770300
+Fosfomycin-Mitomycin C-ST_LT2-rep2	ST_LT2	2	Mitomycin C	Fosfomycin	1	0.2	770300
+Fosfomycin-Procaine-ST_LT2-rep2	ST_LT2	2	Procaine	Fosfomycin	11000	0.2	770300
+Imipenem-Cefotaxime-ST_LT2-rep2	ST_LT2	2	Cefotaxime	Imipenem	0.08	0.3	770300
+Levofloxacin-Procaine-ST_LT2-rep2	ST_LT2	2	Procaine	Levofloxacin	11000	0.125	770300
+Penicillin G-Aztreonam-ST_LT2-rep2	ST_LT2	2	Aztreonam	Penicillin G	0.07	2	770300
+Penicillin G-Cefsulodin-ST_LT2-rep2	ST_LT2	2	Cefsulodin	Penicillin G	40	2	770300
+Sulfamonomethoxine-Levofloxacin-ST_LT2-rep2	ST_LT2	2	Levofloxacin	Sulfamonomethoxine	0.125	100	770300
+Vanillin-Minocycline-ST_LT2-rep2	ST_LT2	2	Minocycline	Vanillin	4	200	770300
+Colistin-Erythromycin-ST_LT2-rep2	ST_LT2	2	Erythromycin	Colistin	70	0.3	770300
+Piperacillin-Amoxicillin-ST_LT2-rep2	ST_LT2	2	Amoxicillin	Piperacillin	0.5	3	770300
+Piperacillin-Procaine-ST_LT2-rep2	ST_LT2	2	Procaine	Piperacillin	11000	3	770300
+A22-Chloramphenicol-ST_LT2-rep2	ST_LT2	2	Chloramphenicol	A22	4	2	770300
+Ciprofloxacin-Spectinomycin-ST_LT2-rep2	ST_LT2	2	Spectinomycin	Ciprofloxacin	30	0.035	770300
+Doxycycline-Ciprofloxacin-ST_LT2-rep2	ST_LT2	2	Ciprofloxacin	Doxycycline	0.035	2	770300
+EGCG-Ciprofloxacin-ST_LT2-rep2	ST_LT2	2	Ciprofloxacin	EGCG	0.035	20	770300
+Minocycline-Ciprofloxacin-ST_LT2-rep2	ST_LT2	2	Ciprofloxacin	Minocycline	0.035	4	770300
+Mitomycin C-Azithromycin-ST_LT2-rep2	ST_LT2	2	Azithromycin	Mitomycin C	7.5	1	770300
+Paraquat-Azithromycin-ST_LT2-rep2	ST_LT2	2	Azithromycin	Paraquat	7.5	10	770300
+Piperacillin-Fosfomycin-ST_LT2-rep2	ST_LT2	2	Fosfomycin	Piperacillin	0.2	3	770300
+PMS-Azithromycin-ST_LT2-rep2	ST_LT2	2	Azithromycin	PMS	7.5	40	770300
+Procaine-Gentamicin-ST_LT2-rep2	ST_LT2	2	Gentamicin	Procaine	2	11000	770300
+Pyocyanin-Ciprofloxacin-ST_LT2-rep2	ST_LT2	2	Ciprofloxacin	Pyocyanin	0.035	15	770300
+Vanillin-Ciprofloxacin-ST_LT2-rep2	ST_LT2	2	Ciprofloxacin	Vanillin	0.035	200	770300

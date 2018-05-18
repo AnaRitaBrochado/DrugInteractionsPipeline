@@ -1,0 +1,1 @@
+Folder will contain main output plots and files from pipeline.

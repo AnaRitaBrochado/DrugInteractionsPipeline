@@ -1,0 +1,13 @@
+Config.R
+.DS_Store
+
+OutData/*
+!OutData/Readme.md
+
+Sensitivity\ Analysis/OutData/*
+!Sensitivity\ Analysis/OutData/Readme.md
+
+InputData/All_strains_*
+InputData/ArraySingleFitness.txt
+InputData/QuerySingleFitness.txt
+InputData/Brochado2018.RData
