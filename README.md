@@ -3,25 +3,25 @@ Source code for data analysis - Brochado et al Nature 2018
 
 This folder contains source code implemented and used to analyze the data published by Brochado et al, Nature 2018 (DOI:).
 RStudio Version 1.0.136, and R version 2.15.1 were used.
-The authors recommend access to a high-performance computing system to run the complete pipeline.
+This analysis pipeline can in principle run without a high-performance computing system. However, the authors recommend access to a high-performance computing system to run specified parts of the pipeline.
 Furthermore, the authors advice caution in re-using this pipeline for other datasets than the one it was built for, due to potential divergences on data quality.
 
 ## The pipeline
-The pipeline is split in 4 parts:
-1) Pre-possessing of raw data & quality control
-2) Interaction-scores calculator
-3) Analysis of drug interactions
-4) Sensitivity analysis
+The pipeline is rooted at *Analysis of drug interactions* and split in 3 parts:
+1) Analysis of drug interactions
+2) Sensitivity analysis
+3) Interaction-scores calculator (next update)
 
 They should be used following the aforementioned order, in order to ensure that all functions and data dependences are satisfied.
 The authors recommend a careful look into the directory paths for input-output file allocation in order to ensure that all paths are properly set, before running the entire pipeline.
-All figures related to data analysis relevant for the publication mentioned above were generated with the scripts from 3 & 4.
+All figures related to data analysis relevant for the publication mentioned above were generated with these scripts.
 
-## Input files
-The source data can be found at the publication website.
-Additional input files needed to run the pipeline are provided here.
-The files named “Plate database.txt” are strain dependent and contain all relevant information concerning each multi-well plate, such as a unique plate identifier, batch, run-file, query (also called donor) drug, quality control indicators, etc.
-The files named Map.txt are strain dependent and contain all relevant information concerning each well in the multi-well plates, such as array (also called receiver) drug, quality control indicators, etc.
+## Input files & running instructions
+The source data can be found at the publication website as supplementary files.
+1) Download the folder with all the scripts to *your-favorite-place* (e.g. Desktop on your local PC). Keep the folder structure as it is.
+2) Open the script *Brochado2018_v3.R* and re-define the variable here_path to be the path to folder you just copied (*your-favorite-place/Analysis_of_interactions/*).
+3) Download the supplementary files and copy the files 1 to 6 in *Analysis_of_interactions/InputData*.
+4) You are ready to run the pipeline. Start by running *Analysis_of_interactions/Brochado2018_v3.R* and move on to run the scripts inside *Sensitivity Analysis*.
 
 Specific questions can be answered by the authors upon request.
 
