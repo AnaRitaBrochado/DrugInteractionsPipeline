@@ -11,7 +11,7 @@ require(plotrix)
 #=============== Set the stage ===============
 
 #source("./Config.R")
-here_path = ""
+here_path = paste0(getwd(),"/")
 
 Load_dir = paste0(here_path,"InputData/")
 Out_dir = paste0(here_path,"OutData/")

@@ -1,5 +1,6 @@
 Config.R
 .DS_Store
+Config.template.R
 
 OutData/*
 !OutData/Readme.md
@@ -11,3 +12,5 @@ InputData/All_strains_*
 InputData/ArraySingleFitness.txt
 InputData/QuerySingleFitness.txt
 InputData/Brochado2018.RData
+.Rproj.user
+*.Rproj

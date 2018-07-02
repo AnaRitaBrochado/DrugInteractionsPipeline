@@ -19,15 +19,15 @@ file_id_QueryFit = "QuerySingleFitness.txt"
 if(!file.exists(paste0(Load_dir,file_id_Bliss)))
 {file.rename(paste0(Load_dir,"Supplementary File 1.txt"), paste0(Load_dir,file_id_Bliss))}
 if(!file.exists(paste0(Load_dir,file_id_Pvals)))
-{file.rename(paste0(Load_dir,"Supplementary File 1.txt"), paste0(Load_dir,file_id_Pvals))}
+{file.rename(paste0(Load_dir,"Supplementary File 2.txt"), paste0(Load_dir,file_id_Pvals))}
 if(!file.exists(paste0(Load_dir,file_id_ExpFit)))
-{file.rename(paste0(Load_dir,"Supplementary File 1.txt"), paste0(Load_dir,file_id_ExpFit))}
+{file.rename(paste0(Load_dir,"Supplementary File 3.txt"), paste0(Load_dir,file_id_ExpFit))}
 if(!file.exists(paste0(Load_dir,file_id_Fit)))
-{file.rename(paste0(Load_dir,"Supplementary File 1.txt"), paste0(Load_dir,file_id_Fit))}
+{file.rename(paste0(Load_dir,"Supplementary File 4.txt"), paste0(Load_dir,file_id_Fit))}
 if(!file.exists(paste0(Load_dir,file_id_ArrayFit)))
-{file.rename(paste0(Load_dir,"Supplementary File 1.txt"), paste0(Load_dir,file_id_ArrayFit))}
+{file.rename(paste0(Load_dir,"Supplementary File 5.txt"), paste0(Load_dir,file_id_ArrayFit))}
 if(!file.exists(paste0(Load_dir,file_id_QueryFit)))
-{file.rename(paste0(Load_dir,"Supplementary File 1.txt"), paste0(Load_dir,file_id_QueryFit))}
+{file.rename(paste0(Load_dir,"Supplementary File 6.txt"), paste0(Load_dir,file_id_QueryFit))}
    
 #read Bliss scores
 Bliss_scores = read.table(paste0(Load_dir,file_id_Bliss),header=T, sep="\t", na.strings="NA", dec=".", strip.white=T)
