@@ -7,6 +7,8 @@ require(LSD)
 require(corrplot)
 library(igraph)
 require(plotrix)
+require(VennDiagram)
+require(gtools)
 
 #=============== Set the stage ===============
 
@@ -549,7 +551,7 @@ for(sp in 1:length(Multi_Species))
   Abs_counts = as.data.frame(cbind(Abs_counts,absolute_counts))
   
 }
-rm(flag,keys,bug,temp,sp,b,absolute_counts,species,sp_hits)
+rm(flag,keys,bug,temp,sp,absolute_counts,species,sp_hits)
 
 Abs_counts[grep("Antagonism_weak_conserved",row.names(Abs_counts)),1:2] = sum(Abs_counts[grep("Antagonism_weak_conserved",row.names(Abs_counts)),1:2])
 Abs_counts[grep("Antagonism_weak_conserved",row.names(Abs_counts)),3:4] = sum(Abs_counts[grep("Antagonism_weak_conserved",row.names(Abs_counts)),3:4])
@@ -1011,7 +1013,7 @@ for(c in 1:length(Classes_mono))
   text(x=-1.2,y=0.6,paste0("n=",n),adj=0)
 }
 
-rm(count_negs,count_pos,diagonal,total_interactions_class,all,neg_fraction,pos_fraction,mat_MC_index,p,pos_all,mat_MC_index)
+rm(count_negs,count_pos,diagonal,total_interactions_class,all,neg_fraction,pos_fraction,mat_MC_index,p,pos_all)
 #========== Source Venn_diagram for species comparison & syn enrichment ======
 par(mfrow = c(1,1),mar=c(6,6,6,6))
 source(paste0(here_path,"/Cross_species_v3.R",collapse=NULL))
